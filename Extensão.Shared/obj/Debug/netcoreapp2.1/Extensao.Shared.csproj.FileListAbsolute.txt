@@ -1,0 +1,9 @@
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensão.Shared\bin\Debug\netcoreapp2.1\Extensao.Shared.deps.json
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensão.Shared\bin\Debug\netcoreapp2.1\Extensao.Shared.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensão.Shared\bin\Debug\netcoreapp2.1\Extensao.Shared.pdb
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensão.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.csprojAssemblyReference.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensão.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.csproj.CoreCompileInputs.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensão.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.AssemblyInfoInputs.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensão.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.AssemblyInfo.cs
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensão.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensão.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.pdb

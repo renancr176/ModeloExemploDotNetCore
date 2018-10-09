@@ -1,0 +1,16 @@
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.csprojAssemblyReference.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.csproj.CoreCompileInputs.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.AssemblyInfoInputs.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.AssemblyInfo.cs
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\bin\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.deps.json
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\bin\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\bin\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.pdb
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\bin\Debug\netcoreapp2.1\Extensao.Domain.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\bin\Debug\netcoreapp2.1\Extensao.Infra.Data.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\bin\Debug\netcoreapp2.1\Extensao.Shared.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\bin\Debug\netcoreapp2.1\Extensao.Domain.pdb
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\bin\Debug\netcoreapp2.1\Extensao.Infra.Data.pdb
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\bin\Debug\netcoreapp2.1\Extensao.Shared.pdb
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.csproj.CopyComplete
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCuting.IoC\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.pdb

@@ -1,0 +1,14 @@
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.csprojAssemblyReference.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.AssemblyInfoInputs.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.AssemblyInfo.cs
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Infra.Data.deps.json
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Infra.Data.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Infra.Data.pdb
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Domain.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Shared.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Domain.pdb
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Shared.pdb
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.csproj.CopyComplete
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.pdb

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Extensao.Services.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Extensao.Services.Api.Controllers.HomeController.Get">
+            <summary>
+            Api Aluno Barão de Mauá
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Extensao.Services.Api.Controllers.TipoAtividadeController.ObtemTipoAtividadePorId(System.Guid)">
+            <summary>
+             Retorna o registro do tipo de atividade
+            </summary>
+            <remarks>Retorna o registro do tipo de atividade</remarks>
+            <param name="id">ID Tipo Atividade</param>
+            <returns>TipoAtividadeQuery</returns>
+        </member>
+        <member name="M:Extensao.Services.Api.Controllers.TipoAtividadeController.ObterTodosTipoAtividade">
+            <summary>
+             Retorna a lista de tipo de atividade
+            </summary>
+            <remarks>Retorna a lista de tipo de atividade</remarks>        
+            <returns>TipoAtividadeQuery</returns>
+        </member>
+        <member name="M:Extensao.Services.Api.Controllers.TipoInscricaoController.ObtemTipoInscricaoPorId(System.Guid)">
+            <summary>
+             Retorna descrição do tipo de inscrição
+            </summary>
+            <remarks>Retorna uma lista com a descrição e Id dos tipos de incrição</remarks>
+            <param name="id">ID Tipo Inscrição</param>
+            <returns>TipoInscricaoQuery</returns>
+        </member>
+        <member name="M:Extensao.Services.Api.Controllers.TipoInscricaoController.ObterTodosTipoInscricao">
+            <summary>
+             Retorna descrição do tipo de inscrição
+            </summary>
+            <remarks>Retorna uma lista com a descrição e Id dos tipos de incrição</remarks>        
+            <returns>TipoInscricaoQuery</returns>
+        </member>
+        <member name="M:Extensao.Services.Api.Controllers.TipoInscricaoController.ObterTodosTipoInscricao(System.String)">
+            <summary>
+             Retorna os rascunhos do tipo de inscrição de um usuário
+            </summary>
+            <remarks>Retorna os rascunhos do tipo de inscrição de um usuário</remarks>
+            <param name="aliasUsuario">Alias do Usuário</param>
+            <returns>TipoInscricaoQuery</returns>
+        </member>
+        <member name="M:Extensao.Services.Api.Controllers.TipoInscricaoController.Post(Extensao.Domain.Proposta.Commands.Inputs.InserirTipoInscricaoCommand)">
+            <summary>
+             Insere novo tipo de inscrição
+            </summary>
+            <remarks>Insere novo tipo de inscrição</remarks>        
+            <returns>IActionResult</returns>
+        </member>
+        <member name="M:Extensao.Services.Api.Controllers.TipoInscricaoController.PostRasculho(Extensao.Domain.Proposta.Commands.Inputs.RascunhoTipoInscricaoCommand)">
+            <summary>
+             Insere ou atualiza um rascunho do tipo de inscrição
+            </summary>
+            <remarks>Insere ou atualiza um rascunho do tipo de inscrição</remarks>        
+            <returns>IActionResult</returns>
+        </member>
+        <member name="M:Extensao.Services.Api.Controllers.TipoInscricaoController.Put(System.Guid,Extensao.Domain.Proposta.Commands.Inputs.AlterarTipoInscricaoCommand)">
+            <summary>
+             Altera um tipo de inscrição
+            </summary>
+            <remarks>Altera um tipo de inscrição</remarks>
+            <param name="id">ID Tipo Inscrição</param>
+            <returns>IActionResult</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,9 @@
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCutting.AspNetFilters\bin\Debug\netcoreapp2.1\Extensao.Infra.CrossCutting.AspNetFilters.deps.json
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCutting.AspNetFilters\bin\Debug\netcoreapp2.1\Extensao.Infra.CrossCutting.AspNetFilters.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCutting.AspNetFilters\bin\Debug\netcoreapp2.1\Extensao.Infra.CrossCutting.AspNetFilters.pdb
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCutting.AspNetFilters.csprojAssemblyReference.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCutting.AspNetFilters.csproj.CoreCompileInputs.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCutting.AspNetFilters.AssemblyInfoInputs.cache
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCutting.AspNetFilters.AssemblyInfo.cs
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCutting.AspNetFilters.dll
+C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp2.1\Extensao.Infra.CrossCutting.AspNetFilters.pdb

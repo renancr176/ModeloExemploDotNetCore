@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Proposta\Commands\OrderCommands\**" />
+    <EmbeddedResource Remove="Proposta\Commands\OrderCommands\**" />
+    <None Remove="Proposta\Commands\OrderCommands\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Enums\" />
+    <Folder Include="Custos\" />
+    <Folder Include="Proposta\Services\" />
+    <Folder Include="RelatorioFinal\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidator" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Extensao.Shared\Extensao.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
