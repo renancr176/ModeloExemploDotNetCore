@@ -7,3 +7,12 @@ C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Shared\ob
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.AssemblyInfo.cs
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.dll
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Shared\bin\Debug\netcoreapp2.1\Extensao.Shared.deps.json
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Shared\bin\Debug\netcoreapp2.1\Extensao.Shared.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Shared\bin\Debug\netcoreapp2.1\Extensao.Shared.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.csprojAssemblyReference.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.csproj.CoreCompileInputs.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.AssemblyInfoInputs.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.AssemblyInfo.cs
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Shared\obj\Debug\netcoreapp2.1\Extensao.Shared.pdb

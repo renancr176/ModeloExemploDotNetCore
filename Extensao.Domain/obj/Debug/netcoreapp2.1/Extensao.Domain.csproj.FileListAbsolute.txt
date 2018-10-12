@@ -10,3 +10,15 @@ C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Domain\bi
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Domain\obj\Debug\netcoreapp2.1\Extensao.Domain.csproj.CopyComplete
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Domain\obj\Debug\netcoreapp2.1\Extensao.Domain.dll
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Domain\obj\Debug\netcoreapp2.1\Extensao.Domain.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\bin\Debug\netcoreapp2.1\Extensao.Domain.deps.json
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\bin\Debug\netcoreapp2.1\Extensao.Domain.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\bin\Debug\netcoreapp2.1\Extensao.Domain.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\bin\Debug\netcoreapp2.1\Extensao.Shared.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\bin\Debug\netcoreapp2.1\Extensao.Shared.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\obj\Debug\netcoreapp2.1\Extensao.Domain.csprojAssemblyReference.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\obj\Debug\netcoreapp2.1\Extensao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\obj\Debug\netcoreapp2.1\Extensao.Domain.AssemblyInfoInputs.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\obj\Debug\netcoreapp2.1\Extensao.Domain.AssemblyInfo.cs
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\obj\Debug\netcoreapp2.1\Extensao.Domain.csproj.CopyComplete
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\obj\Debug\netcoreapp2.1\Extensao.Domain.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Domain\obj\Debug\netcoreapp2.1\Extensao.Domain.pdb

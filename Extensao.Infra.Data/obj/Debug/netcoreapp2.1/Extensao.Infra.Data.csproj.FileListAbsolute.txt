@@ -12,3 +12,17 @@ C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Dat
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.csproj.CopyComplete
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.dll
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Infra.Data.deps.json
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Infra.Data.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Infra.Data.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Domain.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Shared.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Domain.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\bin\Debug\netcoreapp2.1\Extensao.Shared.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.csprojAssemblyReference.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.AssemblyInfo.cs
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.csproj.CopyComplete
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Infra.Data\obj\Debug\netcoreapp2.1\Extensao.Infra.Data.pdb

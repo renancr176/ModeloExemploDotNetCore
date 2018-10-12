@@ -2320,7 +2320,7 @@
       ]
     },
     "Microsoft.Rest.ClientRuntime/2.3.12": {
-      "sha512": "sRaKzLw2/3T0LGscO9e0qsmEPQG5SEBDyRmstBrQD4VUPjvSNZhIumLh24Qkz4hB9ZWx9FJuAUIkkBc9h0IVKA==",
+      "sha512": "h7a49XwmCE36Qq6zXcw0tFhibenr5VxwuN/Swnjc/dlVdkSD56YO1ybTtsCd6HAMdmrz7+C5XQ3xbUSw1ORAlQ==",
       "type": "package",
       "path": "microsoft.rest.clientruntime/2.3.12",
       "files": [
@@ -4636,23 +4636,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\renancr\\.nuget\\packages\\": {},
+    "C:\\Users\\RenanPC\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\srvtfs\\FaculdadeCollection\\Extensao\\Back End\\Extensao\\Extensao.Infra.CrossCutting.AspNetFilters\\Extensao.Infra.CrossCutting.AspNetFilters.csproj",
+      "projectUniqueName": "C:\\Users\\RenanPC\\Documents\\GitHub\\ModeloExemploDotNetCore\\Extensao.Infra.CrossCutting.AspNetFilters\\Extensao.Infra.CrossCutting.AspNetFilters.csproj",
       "projectName": "Extensao.Infra.CrossCutting.AspNetFilters",
-      "projectPath": "C:\\Code\\srvtfs\\FaculdadeCollection\\Extensao\\Back End\\Extensao\\Extensao.Infra.CrossCutting.AspNetFilters\\Extensao.Infra.CrossCutting.AspNetFilters.csproj",
-      "packagesPath": "C:\\Users\\renancr\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\srvtfs\\FaculdadeCollection\\Extensao\\Back End\\Extensao\\Extensao.Infra.CrossCutting.AspNetFilters\\obj\\",
+      "projectPath": "C:\\Users\\RenanPC\\Documents\\GitHub\\ModeloExemploDotNetCore\\Extensao.Infra.CrossCutting.AspNetFilters\\Extensao.Infra.CrossCutting.AspNetFilters.csproj",
+      "packagesPath": "C:\\Users\\RenanPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RenanPC\\Documents\\GitHub\\ModeloExemploDotNetCore\\Extensao.Infra.CrossCutting.AspNetFilters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\renancr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RenanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

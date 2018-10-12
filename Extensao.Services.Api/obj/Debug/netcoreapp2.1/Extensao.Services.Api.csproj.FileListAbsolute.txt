@@ -22,3 +22,27 @@ C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Services.
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.csproj.CopyComplete
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.dll
 C:\Code\srvtfs\FaculdadeCollection\Extensao\Back End\Extensao\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Services.Api.xml
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Services.Api.deps.json
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Services.Api.runtimeconfig.json
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Services.Api.runtimeconfig.dev.json
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Services.Api.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Services.Api.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Domain.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Infra.Data.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Shared.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Infra.CrossCuting.IoC.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Shared.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Domain.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\bin\Debug\netcoreapp2.1\Extensao.Infra.Data.pdb
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.csprojAssemblyReference.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.csproj.CoreCompileInputs.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.RazorAssemblyInfo.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.RazorAssemblyInfo.cs
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.AssemblyInfoInputs.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.AssemblyInfo.cs
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.RazorTargetAssemblyInfo.cache
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.csproj.CopyComplete
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.dll
+C:\Users\RenanPC\Documents\GitHub\ModeloExemploDotNetCore\Extensao.Services.Api\obj\Debug\netcoreapp2.1\Extensao.Services.Api.pdb

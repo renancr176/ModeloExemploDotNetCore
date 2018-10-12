@@ -704,23 +704,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\renancr\\.nuget\\packages\\": {},
+    "C:\\Users\\RenanPC\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\srvtfs\\FaculdadeCollection\\Extensao\\Back End\\Extensao\\Extensao.Shared\\Extensao.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\RenanPC\\Documents\\GitHub\\ModeloExemploDotNetCore\\Extensao.Shared\\Extensao.Shared.csproj",
       "projectName": "Extensao.Shared",
-      "projectPath": "C:\\Code\\srvtfs\\FaculdadeCollection\\Extensao\\Back End\\Extensao\\Extensao.Shared\\Extensao.Shared.csproj",
-      "packagesPath": "C:\\Users\\renancr\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\srvtfs\\FaculdadeCollection\\Extensao\\Back End\\Extensao\\Extensao.Shared\\obj\\",
+      "projectPath": "C:\\Users\\RenanPC\\Documents\\GitHub\\ModeloExemploDotNetCore\\Extensao.Shared\\Extensao.Shared.csproj",
+      "packagesPath": "C:\\Users\\RenanPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RenanPC\\Documents\\GitHub\\ModeloExemploDotNetCore\\Extensao.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\renancr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RenanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
